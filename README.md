@@ -30,8 +30,8 @@ Pictures speak louder than a million words. These pictures will tell you tales a
 <br/>
 <br/>
 
-[![BugReport](https://github.com/reginasalve/assets/blob/main/Bug%20report.png?raw=true)](https://github.com/reginasalve/portfolio/tree/main/Bug%20reports)
-[![TestCase](https://github.com/reginasalve/assets/blob/main/Test%20case.png?raw=true)](https://github.com/reginasalve/portfolio/tree/main/Test%20cases)
+[![BugReport](https://github.com/reginasalve/assets/blob/main/Bug%20report.png?raw=true)](https://github.com/reginasalve/portfolio/tree/main/Bug%20reports) 
+[![TestCase](https://github.com/reginasalve/assets/blob/main/Test%20case.png?raw=true)](https://github.com/reginasalve/portfolio/tree/main/Test%20cases) 
 [![CheckList](https://github.com/reginasalve/assets/blob/main/Check%20list.png?raw=true)](https://github.com/reginasalve/portfolio/tree/main/Check%20lists)
 
 <br/>
